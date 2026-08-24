@@ -55,7 +55,7 @@ How many points?
 
 You did not enter anything. Please enter a whole number.
 
-## Sample Output 4
+## Sample Output 5
 
 How many points? seven
 
